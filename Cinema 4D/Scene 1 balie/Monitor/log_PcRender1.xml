@@ -1,0 +1,58 @@
+<batchrender>
+  <environmentinfo>
+    <machineinfo>
+      <machinename>MSI</machinename>
+      <username>chris</username>
+      <processortype>G, stepping 3, model 14, instruction family 6</processortype>
+      <processorname>Intel Core i7-6700HQ CPU </processorname>
+      <processornumber>8</processornumber>
+      <ostype>WINDOWS 64 BIT</ostype>
+      <osversion>Windows 10, 64 Bit, Core (build 14393)</osversion>
+      <oglvendorname>NVIDIA Corporation</oglvendorname>
+      <oglrendername>GeForce GTX 960M/PCIe/SSE2</oglrendername>
+      <oglversion>4.6.0 NVIDIA 387.92</oglversion>
+    </machineinfo>
+    <c4dinfo>
+      <c4dversion>18057</c4dversion>
+      <c4dplugins>addons advanced render alembic archigrass bitmapfilter bpexchange browser ca ca2 cineman clothilde collada14 collada15 colorchoosergui compositing dwg dwgobjects dynamics exchanges expressiontag fbx hair houdiniconfig houdiniengine iges io_obj i_skp licenseserver metrics mocca model mograph motioncam motiontracker newman objects okino onlinehelp onlineupdater openexr python relaxuv sculpt sculptbrushes shader sketch sky sla spacemouse substance teamrender texturemanager thinking particles tpoperators walkthrough xpressocore xtensions edgeshade </c4dplugins>
+    </c4dinfo>
+  </environmentinfo>
+  <fileinfo>
+    <filename>PC.c4d</filename>
+    <filepath>D:\Users\christophe\Documents\$Skyrim\$$LaatsteJaar\Project\GITVANAS\ProjectVANAS\Cinema 4D\Scene 1 balie\PC</filepath>
+    <renderdatainfo>
+      <rendersettings>My Render Setting</rendersettings>
+      <take>Main</take>
+      <camera>Camera</camera>
+      <width>1920</width>
+      <height>1080</height>
+      <filmaspect>1.778</filmaspect>
+      <pixelaspect>1</pixelaspect>
+      <fps>30</fps>
+      <from>0</from>
+      <to>0</to>
+      <steps>1</steps>
+      <saveinfo>
+        <imagepath>D:\Users\christophe\Documents\$Skyrim\$$LaatsteJaar\Project\GITVANAS\ProjectVANAS\Cinema 4D\Renders\Scene 1 balie\Pc</imagepath>
+        <imagedepth>8</imagedepth>
+        <imageformat>TIFF (PSD Layers)</imageformat>
+      </saveinfo>
+      <renderengine>
+        <engine id="1023342" name="Physical" />
+      </renderengine>
+      <videopost>
+        <effect id="300001045" name="Ambient Occlusion" />
+        <effect id="1021096" name="Global Illumination" />
+      </videopost>
+    </renderdatainfo>
+  </fileinfo>
+  <renderinfo>
+    <imageinfo frame="0">00:01:36 D:\Users\christophe\Documents\$Skyrim\$$LaatsteJaar\Project\GITVANAS\ProjectVANAS\Cinema 4D\Renders\Scene 1 balie\Pc\PcRender1.tif</imageinfo>
+  </renderinfo>
+  <batchinfo>
+    <added>10/18/2017, 11:33:59 PM</added>
+    <started>10/18/2017, 11:34:00 PM</started>
+    <rendertime>00:01:36</rendertime>
+    <result>Finished</result>
+  </batchinfo>
+</batchrender>
