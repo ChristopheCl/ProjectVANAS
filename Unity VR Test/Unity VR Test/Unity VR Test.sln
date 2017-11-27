@@ -1,10 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-<<<<<<< HEAD
 # Visual Studio 2017
-=======
-# Visual Studio 2015
->>>>>>> master
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity VR Test", "Unity VR Test.csproj", "{3D531AC0-FCE4-9D9E-4D85-97BBED750FAA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity VR Test.Editor", "Unity VR Test.Editor.csproj", "{960E1C52-CA5E-C7AA-7DE7-CDC94602D3F9}"

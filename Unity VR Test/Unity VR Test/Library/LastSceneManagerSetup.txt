@@ -1,8 +1,4 @@
 sceneSetups:
-<<<<<<< HEAD
-- path: Assets/VRTK/Examples/006_Controller_UsingADoor.unity
-=======
-- path: Assets/Scene/scene1.unity
->>>>>>> master
+- path: Assets/Scene/TestSceneObjectenEnDeur.unity
   isLoaded: 1
   isActive: 1
